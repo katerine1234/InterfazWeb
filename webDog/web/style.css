@@ -1,0 +1,25 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 30 ago 2023, 12:42:08
+    Author     : Katerine  Forero
+*/
+
+body {
+    margin: 100px;
+    padding: 100px;
+    font-family: Arial, sans-serif;
+    background-image: url('ivan.jpg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+
+.contenido {
+    text-align: center;
+    padding: 100px;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
